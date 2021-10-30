@@ -1,0 +1,49 @@
+header{
+    color:#FF5F00;
+    background-color:#AFAFAF;
+    text-align:center;
+    padding: 10px;
+    font-weight: bold;
+}
+body{
+    font-family: "Verdana Pro", sans-serif;
+}
+table {
+    table-layout: auto;
+    width: 80%;
+    box-shadow: 5px 5px #AFAFAF;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+td, th{
+    border: 1px solid black;
+    padding: 10px;
+}
+th{
+    background-color: #76B900;
+    color: #ffffff;
+}
+nav{
+    padding: 50px;
+}
+nav a{
+    border: 1px solid #AFAFAF;
+    border-radius: 8px;
+    padding: 10px;
+    color: white;
+    background-color: #0082D1;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:hover{
+    color: #FF5F00;
+    background-color: #AFAFAF;
+}
+footer{
+    background-color:#FF5F00;
+    text-align:center;
+    padding: 20px;
+}
+span{
+    font-weight: bolder;
+}
