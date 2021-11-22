@@ -1,0 +1,23 @@
+#links, #rechts{
+    background-color: #FF5F00;
+}
+@media screen and (min-width: 992px) {
+    #links,
+    #rechts {
+        background-color: lightgrey;
+        height: auto;
+    }
+}
+#nav{
+    background-color: lightgray;
+}
+nav a{
+    color: #FF5F00;
+}
+.table tbody tr:hover {
+    background-color: #76B900;
+}
+#eingabe button{
+    background-color: #AFAFAF;
+    color: white;
+}
