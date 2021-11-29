@@ -1,0 +1,18 @@
+div{
+  font-family: "Verdana Pro", sans-serif;
+  padding: 50px;
+}
+div a{
+  border: 1px solid #AFAFAF;
+  border-radius: 8px;
+  padding: 10px;
+  color: white;
+  background-color: #0082D1;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 2px;
+}
+div a:hover{
+  color: #FF5F00;
+  background-color: #AFAFAF;
+}
